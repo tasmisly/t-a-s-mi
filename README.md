@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Correlation in Panda**
 
-- 👨‍💻 All of my projects are available at [https://app.powerbi.com/home?experience=power-bi"target="_blank](https://app.powerbi.com/home?experience=power-bi)
+- 👨‍💻 All of my projects are available at [https://app.powerbi.com/home?experience=power-bi](https://app.powerbi.com/home?experience=power-bi)
 
 - 💬 Ask me about **Power BI Visualization**
 
