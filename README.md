@@ -26,8 +26,6 @@
 <p align="left">
 <a href="https://twitter.com/@tasmi45799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tasmi45799" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saima-rahman-47885a167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saima rahman" height="30" width="40" /></a>
-<a href="https://kaggle.com/tasmi sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasmi sa" height="30" width="40" /></a>
-<a href="https://instagram.com/tasmibebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasmibebo" height="30" width="40" /></a>
 <a href="https://dribbble.com/tasmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tasmi" height="30" width="40" /></a>
 </p>
 
