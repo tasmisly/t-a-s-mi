@@ -1,5 +1,5 @@
 ![logo](https://github.com/tasmisly/t-a-s-mi/blob/main/1.jpg)
-<h1 align="center">Hi 🖐️ </h1> </br> 
+<h1 align="center">Hi  </h1> </br> 
 <h1 align="center">It's Tasmi Rahman</h1>
 <h3 align="center">A Resolved Data Analyst</h3>
 
