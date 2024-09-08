@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmisly&label=Profile%20views&color=0e75b6&style=flat" alt="tasmisly" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tasmi45799" target="blank"><img src="https://img.shields.io/twitter/follow/@tasmi45799?logo=twitter&style=for-the-badge" alt="@tasmi45799" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@tasmi45799" target="blank"><img src="https://img.shields.io/twitter/follow/tasmi45799?logo=twitter&style=for-the-badge" alt="@tasmi45799" /></a> </p>
 
 - 🔭 I’m currently working on **SQL Data Cleaning**
 
