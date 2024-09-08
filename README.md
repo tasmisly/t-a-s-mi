@@ -17,11 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://app.powerbi.com/home?experience=power-bi](https://app.powerbi.com/home?experience=power-bi)
 
-- 💬 Ask me about **Power BI Visualization**
-
 - 📫 How to reach me **tasmisa21@gmail.com**
 
-- ⚡ Fun fact **when you'll become diamond, you'll see why life had to pressure you😉**
+- ⚡ Fun fact **"when you'll become diamond, you'll see why life had to pressure you"😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
