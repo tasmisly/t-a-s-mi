@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **SQL Data Cleaning**
 
-- 🌱 I’m currently learning ****
-
 - 👯 I’m looking to collaborate on **Data Analysis in Pandas**
 
 - 🤝 I’m looking for help with **Correlation heat maps in panda**
