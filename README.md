@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **SQL Data Cleaning**
 
-- 🌱 I’m currently learning **Correlation heat maps in panda**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Data Analysis in Pandas**
 
-- 🤝 I’m looking for help with **Correlation in Panda**
+- 🤝 I’m looking for help with **Correlation heat maps in panda**
 
 - 👨‍💻 All of my projects are available at [https://app.powerbi.com/home?experience=power-bi](https://app.powerbi.com/home?experience=power-bi)
 
