@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@tasmi45799" target="blank"><img src="https://img.shields.io/twitter/follow/tasmi45799?logo=twitter&style=for-the-badge" alt="@tasmi45799" /></a> </p>
 
-- 🔭 I’m currently working on **SQL Data Cleaning**
-
-- 👯 I’m looking to collaborate on **Data Analysis in Pandas**
-
-- 🤝 I’m looking for help with **Correlation heat maps in panda**
+- 🔭 I’m currently working on **Correlation heat maps in panda**
 
 - ⚡ Fun fact **"when you'll become diamond, you'll see why life had to pressure you"😉**
 
